@@ -3,7 +3,7 @@ const rollNumber = document.querySelector('')
 
 let dieRolls = []
 let total = 0
-let randnum
+let var = []
 
 
 rollButton.addEventListener("click", function() {
