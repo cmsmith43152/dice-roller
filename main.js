@@ -1,9 +1,9 @@
 const rollButton = document.querySelector('#roll-button')
-const rollNumber = document.querySelector('')
+const rollNumber = document.querySelector('Roll!')
 
 let dieRolls = []
 let total = 0
-let var = []
+var = []
 
 
 rollButton.addEventListener("click", function() {
